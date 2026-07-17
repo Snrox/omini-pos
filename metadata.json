@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS",
+  "description": "Offline-First Enterprise-Grade Point of Sale (POS) with local real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
